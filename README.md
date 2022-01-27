@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Alexandros Pnevmonidis <img height="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
-<h3 align="center">A Computer Science Student of the International Hellenic University.</h3>
+<h3 align="center">A Developer in making</h3>
 
 - 🌱 I’m currently learning **Java.**
 
-- 📫 How to reach me **phonesere@gmail.com**
+- 🎓 Studying Computer Science at IHU Thessaloniki.
+
+- 💞️ I love Linux and Coffee.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
