@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Alexandros Pnevmonidis <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
+
+<h1 align="center">Hi, I'm Alexandros Pnevmonidis <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='30px'></h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23379FFE&duration=5500&center=true&height=30&lines=A+Developer+in+making.)](https://github.com/Pnevmalex)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23379FFE&duration=5500&center=true&height=35&lines=A+Developer+in+making.)](https://github.com/Pnevmalex)
 
 <h3>My Workstation 💻</h3>
 <p>
@@ -22,6 +23,16 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<h3>Where to find me 📈</h3
+<p>
+  <a href="mailto:phonesere@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pnevmalex/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <h3>Analytics 📈</h3>
