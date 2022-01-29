@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Alexandros Pnevmonidis <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
 
 <div align="center">
-<h2>A Developer in making.</h3>
+<h2>A Developer in making.</h2>
 
 <h3>My Workstation 🛠</h3>
+<p>Soon...</p>
+
+<h3>Languages </h3>
 <p>Soon...</p>
 
 <h3>Analytics 📈</h3>
