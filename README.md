@@ -8,7 +8,7 @@
 
 <h3>Analytics 📈</h3>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pnevmalex&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pnevmalex&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://github.com/Pnevmalex)
 
 <p>
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
