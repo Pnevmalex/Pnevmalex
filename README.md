@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3>Where to find me 📈</h3
+<h3>Where to find me 📫</h3
 <p>
   <a href="mailto:phonesere@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
