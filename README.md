@@ -4,10 +4,10 @@
 
 <h2>A Developer in making.</h2>
 
-<h3>My Workstation 🛠</h3>
+<h3>My Workstation 💻</h3>
 <p>Soon...</p>
 
-<h3>Languages </h3>
+<h3>Languages 🛠</h3>
 <p>Soon...</p>
 
 <h3>Analytics 📈</h3>
