@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23379FFE&duration=5500&center=true&height=35&lines=A+Developer+in+making.)](https://github.com/Pnevmalex)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23379FFE&duration=5500&center=true&height=35&lines=A+Developer+in+making.)](https://readme-typing-svg.herokuapp.com/demo/)
 
 <h3>My Workstation 💻</h3>
 <p>
